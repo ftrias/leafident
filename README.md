@@ -3,7 +3,7 @@ Professor Zoran B. Djordjević
 
 By Fernando Trias
 
-============
+----------
 
 This project attempts to identify tree species form images of leaves. It uses
 the Leafsnap dataset to train a MobileNet workwork. The training is implemented
