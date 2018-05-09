@@ -18,6 +18,10 @@ Next run `run.sh`, which will train both the CNN and MobileNet models.
 
 The notebook `tests.ipynb` is used to explore and validate the resulting models.
 
+## Results
+
+`CNN.log` and `MNET.log` provide the output of my two training runs.
+
 ## Youtube Presentations
 
 Two minute (short): https://youtu.be/S6jOuE9KHlg 
